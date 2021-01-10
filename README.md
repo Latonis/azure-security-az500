@@ -17,4 +17,6 @@ Study Guides
 
 -  https://pixelrobots.co.uk/2019/03/study-resources-for-the-az-500-microsoft-certified-azure-security-engineer/
 
+-  https://www.pluralsight.com/role-iq/microsoft-azure-security-engineer
+
 Exam result: not taken yet
