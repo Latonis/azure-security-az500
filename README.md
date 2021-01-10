@@ -17,4 +17,4 @@ Study Guides
 
 -  https://pixelrobots.co.uk/2019/03/study-resources-for-the-az-500-microsoft-certified-azure-security-engineer/
 
-Exam result: PASS
+Exam result: not taken yet
