@@ -1,15 +1,11 @@
 # azure-security-az500
 This is the respository that I will be storing all of my exam preparation notes and results for AZ-500 for Azure. I have just passed AZ-900 and am now pursuing the security track for Azure.
 ## Resources Used:
-A Cloud Guru's AZ 900 2020 Fundamentals Course
+A Cloud Guru's AZ-500 2020 Course
 
 - https://acloudguru.com/course/az-500-microsoft-azure-security-technologies-la
 
-Whizlabs AZ-900 Free Practice Exam
-
-- https://www.whizlabs.com/microsoft-azure-certification-az-500/
-
-Microsoft Learn Course for AZ-900
+Microsoft Learn Course for AZ-500
 
 - https://docs.microsoft.com/en-us/learn/certifications/exams/az-500
 
