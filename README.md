@@ -15,4 +15,4 @@ Study Guides
 
 -  https://www.pluralsight.com/role-iq/microsoft-azure-security-engineer
 
-Exam result: not taken yet
+Exam result: Passed
